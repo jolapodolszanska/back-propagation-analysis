@@ -1,3 +1,6 @@
+**This project is part of the assignments for students in the computer science major in the subject of Artificial Neural Networks and Deep Learning.**
+
+
 The program includes a function `generate_dataset(N_points)` that generates a dataset consisting of two classes distributed around a circle with varying radii:
 - Class 1: elements are closer to the center.
 - Class 0: elements are further from the center.
